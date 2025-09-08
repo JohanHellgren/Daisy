@@ -105,7 +105,7 @@ void UpdateButtons()
     }
 }
 
-//Deals with analog controls
+//Deals with analog controls 
 void Controls()
 {
     pod.ProcessAnalogControls();
